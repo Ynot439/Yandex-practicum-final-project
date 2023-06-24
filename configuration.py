@@ -1,4 +1,4 @@
 
-URL = 'https://0303b7e6-13f2-456e-9515-ccfb6730e41e.serverhub.praktikum-services.ru'
+URL = 'https://5f6d3447-dcef-49f3-b67e-dfb96179712d.serverhub.praktikum-services.ru'
 ORDER = '/api/v1/orders'
-TRACK = '/v1/orders/track?t='
+TRACK = '/api/v1/orders/track?t='
